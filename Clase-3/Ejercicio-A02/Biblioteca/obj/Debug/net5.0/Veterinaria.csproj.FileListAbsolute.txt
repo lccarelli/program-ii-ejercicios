@@ -1,0 +1,12 @@
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\obj\Debug\net5.0\Veterinaria.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\obj\Debug\net5.0\Veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\obj\Debug\net5.0\Veterinaria.AssemblyInfoInputs.cache
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\obj\Debug\net5.0\Veterinaria.AssemblyInfo.cs
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\obj\Debug\net5.0\Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\bin\Debug\net5.0\Veterinaria.deps.json
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\bin\Debug\net5.0\Veterinaria.dll
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\bin\Debug\net5.0\ref\Veterinaria.dll
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\bin\Debug\net5.0\Veterinaria.pdb
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\obj\Debug\net5.0\Veterinaria.dll
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\obj\Debug\net5.0\ref\Veterinaria.dll
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\obj\Debug\net5.0\Veterinaria.pdb

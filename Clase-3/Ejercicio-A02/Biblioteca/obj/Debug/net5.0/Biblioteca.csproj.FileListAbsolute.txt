@@ -1,0 +1,5 @@
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\robot\Documents\labo_program_2\Clase-3\Ejercicio-A02\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
