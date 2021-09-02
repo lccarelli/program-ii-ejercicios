@@ -30,16 +30,21 @@ namespace Biblioteca
         {
             for (int i = 0; i < e.productos.Length - 1; i++) 
             {
-                if (e.productos[i] == p) 
+                if (e.productos[i] is not null)
                 {
- 
+                    if (e.productos[i] == p)
+                    {
+                        return true;
+                    }
                 }
+
             }
+            return false;
         }
 
         public static bool operator !=(Estante e, Producto p) 
         {
-        
+            return !(e == p);
         }
 
         public static bool operator +(Estante e, Producto p) 
