@@ -20,12 +20,11 @@ namespace WinFormsApp
         }
 
 
-        private Dictionary<string, int> contadorPalabras() 
+        private Dictionary<string, int> ContadorPalabras() 
         {
             string texto = richTxBoxPalabras.Text;
             Dictionary<String, int> dicPalabras = new Dictionary<string, int>();
-            string[] palabras = texto.Split(' ');
-            int contador = 1;
+            string[] palabras = texto.Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
             foreach (string palabra in palabras)
             {
@@ -41,7 +40,7 @@ namespace WinFormsApp
 
         }
 
-        private List<KeyValuePair<string,int>> odernar(Dictionary<string, int> dic) 
+        private List<KeyValuePair<string,int>> ObetenerPodio(Dictionary<string, int> dic) 
         {
             List<KeyValuePair<string, int>> list = dic.ToList();
             list.Sort(CompararElemento);
@@ -51,7 +50,7 @@ namespace WinFormsApp
 
         private int CompararElemento(KeyValuePair<string, int> primer, KeyValuePair<string,int> segundo) 
         {
-            return primer.Value - segundo.Value;
+            return segundo.Value - primer.Value;
         }
 
         private void MostrarPodio(List<KeyValuePair<string, int>> podio) 
@@ -63,15 +62,24 @@ namespace WinFormsApp
                 sb.Append("No se ingresaron palabras");
             }
             else
-            { 
-                
+            {
+                for (int i = 0; i < 3 && i < podio.Count; i++) 
+                {
+                    sb.AppendLine($"Palabra: {podio[i].Key} - Cantidad: {podio[i].Value}");
+                }
+                //foreach (KeyValuePair<string, int> par in podio)
+                //{
+                //    sb.AppendLine($"Palabra: {par.Key} - Cantidad: {par.Value}");
+                //}
             }
+            MessageBox.Show(sb.ToString(), "Podio");
         }
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            
-            MessageBox.Show($"La cantidad de palabras son -> {count}");
+            Dictionary<string, int> contadorPalabras = ContadorPalabras();
+            List<KeyValuePair<string, int>> podio = ObetenerPodio(contadorPalabras);
+            MostrarPodio(podio);
         }
     }
 }
