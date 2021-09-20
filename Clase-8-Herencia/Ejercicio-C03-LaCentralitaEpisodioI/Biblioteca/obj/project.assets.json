@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-9\\Ejercicio-I02\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-8-Herencia\\Ejercicio-C03-LaCentralitaEpisodioI\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-9\\Ejercicio-I02\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-8-Herencia\\Ejercicio-C03-LaCentralitaEpisodioI\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\robot\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-9\\Ejercicio-I02\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-8-Herencia\\Ejercicio-C03-LaCentralitaEpisodioI\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

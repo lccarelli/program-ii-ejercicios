@@ -12,26 +12,31 @@ namespace Biblioteca
 
         public float CostoLlamada 
         { 
-            get => CalcularCosto(); 
-            set => costo = value;
+            get => CalcularCosto();
+        }
+
+        public Local(Llamada llamada, float costo) 
+            : this(costo, llamada.Duracion, llamada.NroDestino, llamada.NroOrigen)
+        { 
         }
 
         public Local(float costo, float duracion, string nroDestino, string nroOrigen)
             : base(duracion, nroDestino, nroOrigen)
         {
-            CostoLlamada = costo;
+            this.costo = costo;
         }
 
         private float CalcularCosto() 
         {
-            return this.costo * Duracion;
+            return this.costo * base.Duracion;
         }
 
-        public static string Mostrar() 
+        public string Mostrar() 
         {
-            StringBuilder sb = new StringBuilder();
-            sb.Append("");
-            return sb.ToString;
+            StringBuilder sb = new();
+            sb.AppendFormat(base.Mostrar());
+            sb.AppendFormat($" Costo de llamada: {0}", CostoLlamada);
+            return sb.ToString();
         }
 
         
