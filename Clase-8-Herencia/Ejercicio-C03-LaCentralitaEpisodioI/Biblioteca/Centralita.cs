@@ -6,12 +6,20 @@ using System.Threading.Tasks;
 
 namespace Biblioteca
 {
-    class Centralita
+    public class Centralita
     {
         List<Llamada> listaDeLlamadas;
-        string razonSocial;
+        protected string razonSocial;
 
-        public Centralita() { }
+        public Centralita() 
+        {
+            this.listaDeLlamadas = new();
+        }
+
+        public Centralita(string nombreEmpresa) : this() 
+        {
+            this.razonSocial = nombreEmpresa;
+        }
 
         public Centralita(List<Llamada> listaDeLlamadas, string razonSocial)
         {
@@ -21,34 +29,22 @@ namespace Biblioteca
 
         public float GananciasPorLocal 
         {
-            get 
-            {
-                return 0;
-            }        
+            get => CalcularGanancia(Llamada.TipoLlamada.Local);        
         }
 
         public float GananciasPorProvincial
         {
-            get
-            {
-                return 0;
-            }
+            get => CalcularGanancia(Llamada.TipoLlamada.Provincial);
         }
 
         public float GananciasPorTotal
         {
-            get
-            {
-                return 0;
-            }
+            get => CalcularGanancia(Llamada.TipoLlamada.Todas);         
         }
 
         public List<Llamada> Llamadas
         {
-            get
-            {
-                return this.listaDeLlamadas;
-            }
+            get => this.listaDeLlamadas;
         }
 
         private float CalcularGanancia(Llamada.TipoLlamada tipo) 
@@ -72,14 +68,29 @@ namespace Biblioteca
             return costoLlamada;
         }
 
-        public string Mostrar() 
+        private string Mostrar() 
         {
-            return "";
+            StringBuilder sb = new();
+            sb.AppendLine($"RazonSocial-> {this.razonSocial}");
+            sb.AppendLine($"GananciaTotal-> {GananciasPorTotal}");
+            sb.AppendLine($"GananciaLocal-> {GananciasPorLocal}");
+            sb.AppendLine($"GananciaProvincial-> {GananciasPorProvincial}");
+            sb.AppendLine("Llamdas ->");
+            foreach (Llamada item in Llamadas)
+            {
+                sb.AppendLine(item.ToString());
+            }
+            return sb.ToString();
+        }
+
+        public override string ToString() 
+        {
+            return this.Mostrar();
         }
 
         public void OrdenarLlamada() 
         {
-            
+            this.Llamadas.Sort((a, b) => Llamada.OrdenarPorDuracion(a, b));
         }
 
     }
