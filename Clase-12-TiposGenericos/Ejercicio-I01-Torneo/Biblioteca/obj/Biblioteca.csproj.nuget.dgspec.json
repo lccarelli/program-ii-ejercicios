@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-7-Encapsulamiento\\Ejercicio-I01-PuestoDeAtencion\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-12-TiposGenericos\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-7-Encapsulamiento\\Ejercicio-I01-PuestoDeAtencion\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-12-TiposGenericos\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-7-Encapsulamiento\\Ejercicio-I01-PuestoDeAtencion\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-12-TiposGenericos\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-7-Encapsulamiento\\Ejercicio-I01-PuestoDeAtencion\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-12-TiposGenericos\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\lauri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-7-Encapsulamiento\\Ejercicio-I01-PuestoDeAtencion\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-12-TiposGenericos\\Biblioteca\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
