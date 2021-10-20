@@ -10,9 +10,11 @@ namespace Biblioteca
     {
         int numero;
 
-        public Recibo() { }
+        public Recibo()
+        {
+        }
 
-        public Recibo(int numero) : this()
+        public Recibo(int numero) : base(numero)
         {
             this.numero = numero;
         }
