@@ -28,7 +28,21 @@ namespace vista
 
             if (formAgregar.DialogResult is DialogResult.OK) 
             {
-                listaSuper.Add(formAgregar.TextoTxtObjeto);
+                listaSuper.Add(formAgregar.TextoObjeto);
+            }
+        }
+
+        private void Eliminar() 
+        {
+            string elementoSeleccionado = lstObjetos.SelectedItem as string;
+
+            if (elementoSeleccionado is not null)
+            {
+                listaSuper.Remove(elementoSeleccionado);
+            }
+            else 
+            {
+                MessageBox.Show("Debe seleccionar un elemento", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
     }

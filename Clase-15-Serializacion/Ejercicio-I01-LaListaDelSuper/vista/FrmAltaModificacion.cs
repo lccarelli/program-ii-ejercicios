@@ -12,9 +12,6 @@ namespace vista
 {
     public partial class FrmAltaModificacion : Form
     {
-        private string titulo;
-        private string textoTxtObjeto;
-        private string textoBttnConfirmar;
 
         public FrmAltaModificacion()
         {
@@ -23,36 +20,40 @@ namespace vista
 
         public FrmAltaModificacion(string titulo, string textoTxtObjeto, string textoBttnConfirmar)
         {
-            Titulo = titulo;
-            TextoTxtObjeto = textoTxtObjeto;
-            TextoBttnConfirmar = textoBttnConfirmar;
+            this.Text = titulo;
+            txtObjeto.Text = textoTxtObjeto;
+            bttnConfirmar.Text = textoBttnConfirmar;
         }
 
-        public string Titulo { get => titulo; set => this.Text = value; }
-        public string TextoTxtObjeto 
-        { 
-            get => textoTxtObjeto;
-            set => txtObjeto.Text = value;
+        public string TextoObjeto 
+        {
+            get 
+            {
+                return txtObjeto.Text;
+            }
         }
-        public string TextoBttnConfirmar { get => textoBttnConfirmar; set => bttnConfirmar.Text = value; }
-
         private void bttnConfirmar_Click(object sender, EventArgs e)
         {
-            if (txtObjeto is null)
-            {
-                throw new Exception("El texto del box se encuentra vacio.");
-            }
-            else
-            {
-                DialogResult = DialogResult.OK;
-                Close();
-            }
+            Confirmar();
         }
 
         private void bttnCancelar_Click(object sender, EventArgs e)
         {
             DialogResult = DialogResult.Cancel;
             Close();
+        }
+
+        private void Confirmar() 
+        {
+            if (string.IsNullOrWhiteSpace(txtObjeto.Text))
+            {
+                MessageBox.Show("NO PUEDE ESTAR VACIO", "WARNING", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+            else 
+            {
+                DialogResult = DialogResult.OK;
+                Close();
+            }
         }
     }
 }
