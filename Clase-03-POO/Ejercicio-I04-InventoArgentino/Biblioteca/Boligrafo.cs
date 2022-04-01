@@ -46,7 +46,7 @@ namespace Biblioteca
                 {
                     sb.AppendLine("**");
                 }
-                this.tinta -= gasto;
+                SetTinta((short)(gasto*-1));
             }
             else 
             {
