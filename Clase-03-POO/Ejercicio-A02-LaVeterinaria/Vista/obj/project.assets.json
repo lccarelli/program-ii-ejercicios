@@ -4978,24 +4978,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\robot\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\54113\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-3\\Ejercicio-A02\\Vista\\Vista.csproj",
+      "projectUniqueName": "C:\\Users\\54113\\Documents\\GitHub\\program-ii-ejercicios\\Clase-03-POO\\Ejercicio-A02-LaVeterinaria\\Vista\\Vista.csproj",
       "projectName": "Vista",
-      "projectPath": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-3\\Ejercicio-A02\\Vista\\Vista.csproj",
-      "packagesPath": "C:\\Users\\robot\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-3\\Ejercicio-A02\\Vista\\obj\\",
+      "projectPath": "C:\\Users\\54113\\Documents\\GitHub\\program-ii-ejercicios\\Clase-03-POO\\Ejercicio-A02-LaVeterinaria\\Vista\\Vista.csproj",
+      "packagesPath": "C:\\Users\\54113\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\54113\\Documents\\GitHub\\program-ii-ejercicios\\Clase-03-POO\\Ejercicio-A02-LaVeterinaria\\Vista\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\robot\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\54113\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5009,11 +5004,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-3\\Ejercicio-A02\\Biblioteca\\Veterinaria.csproj": {
-              "projectPath": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-3\\Ejercicio-A02\\Biblioteca\\Veterinaria.csproj"
+            "C:\\Users\\54113\\Documents\\GitHub\\program-ii-ejercicios\\Clase-03-POO\\Ejercicio-A02-LaVeterinaria\\Biblioteca\\Veterinaria.csproj": {
+              "projectPath": "C:\\Users\\54113\\Documents\\GitHub\\program-ii-ejercicios\\Clase-03-POO\\Ejercicio-A02-LaVeterinaria\\Biblioteca\\Veterinaria.csproj"
             },
-            "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-3\\Ejercicio-A02\\TestVeterinaria\\TestVeterinaria.csproj": {
-              "projectPath": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-3\\Ejercicio-A02\\TestVeterinaria\\TestVeterinaria.csproj"
+            "C:\\Users\\54113\\Documents\\GitHub\\program-ii-ejercicios\\Clase-03-POO\\Ejercicio-A02-LaVeterinaria\\TestVeterinaria\\TestVeterinaria.csproj": {
+              "projectPath": "C:\\Users\\54113\\Documents\\GitHub\\program-ii-ejercicios\\Clase-03-POO\\Ejercicio-A02-LaVeterinaria\\TestVeterinaria\\TestVeterinaria.csproj"
             }
           }
         }
@@ -5042,7 +5037,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

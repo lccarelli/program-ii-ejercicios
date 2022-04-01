@@ -1,0 +1,12 @@
+C:\Users\54113\Documents\GitHub\program-ii-ejercicios\Clase-02-Clases\Ejercicio-I01-CreoQueNecesitoUnPréstamo\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\54113\Documents\GitHub\program-ii-ejercicios\Clase-02-Clases\Ejercicio-I01-CreoQueNecesitoUnPréstamo\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\54113\Documents\GitHub\program-ii-ejercicios\Clase-02-Clases\Ejercicio-I01-CreoQueNecesitoUnPréstamo\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\54113\Documents\GitHub\program-ii-ejercicios\Clase-02-Clases\Ejercicio-I01-CreoQueNecesitoUnPréstamo\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\54113\Documents\GitHub\program-ii-ejercicios\Clase-02-Clases\Ejercicio-I01-CreoQueNecesitoUnPréstamo\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54113\Documents\GitHub\program-ii-ejercicios\Clase-02-Clases\Ejercicio-I01-CreoQueNecesitoUnPréstamo\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\54113\Documents\GitHub\program-ii-ejercicios\Clase-02-Clases\Ejercicio-I01-CreoQueNecesitoUnPréstamo\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\54113\Documents\GitHub\program-ii-ejercicios\Clase-02-Clases\Ejercicio-I01-CreoQueNecesitoUnPréstamo\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\54113\Documents\GitHub\program-ii-ejercicios\Clase-02-Clases\Ejercicio-I01-CreoQueNecesitoUnPréstamo\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\54113\Documents\GitHub\program-ii-ejercicios\Clase-02-Clases\Ejercicio-I01-CreoQueNecesitoUnPréstamo\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\54113\Documents\GitHub\program-ii-ejercicios\Clase-02-Clases\Ejercicio-I01-CreoQueNecesitoUnPréstamo\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\54113\Documents\GitHub\program-ii-ejercicios\Clase-02-Clases\Ejercicio-I01-CreoQueNecesitoUnPréstamo\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll

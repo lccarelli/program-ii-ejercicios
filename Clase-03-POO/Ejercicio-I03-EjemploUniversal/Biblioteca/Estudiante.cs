@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Biblioteca
 {
@@ -54,6 +55,14 @@ namespace Biblioteca
         private bool EsAprobado(int nota) 
         {
             return nota > 4 ? true : false;
+        }
+
+        public string Mostrar() 
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendFormat("Nombre: {0}, Apellido: {1}, Legajo: {0}", this.nombre, this.apellido, this.legajo);
+
+            return sb.ToString();
         }
 
     }

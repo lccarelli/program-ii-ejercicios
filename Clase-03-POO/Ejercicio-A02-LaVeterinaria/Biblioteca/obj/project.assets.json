@@ -8,24 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\robot\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\54113\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-3\\Ejercicio-A02\\Biblioteca\\Veterinaria.csproj",
+      "projectUniqueName": "C:\\Users\\54113\\Documents\\GitHub\\program-ii-ejercicios\\Clase-03-POO\\Ejercicio-A02-LaVeterinaria\\Biblioteca\\Veterinaria.csproj",
       "projectName": "Veterinaria",
-      "projectPath": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-3\\Ejercicio-A02\\Biblioteca\\Veterinaria.csproj",
-      "packagesPath": "C:\\Users\\robot\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-3\\Ejercicio-A02\\Biblioteca\\obj\\",
+      "projectPath": "C:\\Users\\54113\\Documents\\GitHub\\program-ii-ejercicios\\Clase-03-POO\\Ejercicio-A02-LaVeterinaria\\Biblioteca\\Veterinaria.csproj",
+      "packagesPath": "C:\\Users\\54113\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\54113\\Documents\\GitHub\\program-ii-ejercicios\\Clase-03-POO\\Ejercicio-A02-LaVeterinaria\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\robot\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\54113\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
