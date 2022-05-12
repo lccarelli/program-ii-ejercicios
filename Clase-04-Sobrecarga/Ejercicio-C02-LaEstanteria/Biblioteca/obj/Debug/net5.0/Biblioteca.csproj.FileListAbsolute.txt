@@ -10,3 +10,15 @@ C:\Users\robot\Documents\labo_program_2\Clase-4\Ejercicio-C02\Biblioteca\bin\Deb
 C:\Users\robot\Documents\labo_program_2\Clase-4\Ejercicio-C02\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
 C:\Users\robot\Documents\labo_program_2\Clase-4\Ejercicio-C02\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
 C:\Users\robot\Documents\labo_program_2\Clase-4\Ejercicio-C02\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\usuario\Documents\GitHub\program-ii-ejercicios\Clase-04-Sobrecarga\Ejercicio-C02-LaEstanteria\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\usuario\Documents\GitHub\program-ii-ejercicios\Clase-04-Sobrecarga\Ejercicio-C02-LaEstanteria\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\usuario\Documents\GitHub\program-ii-ejercicios\Clase-04-Sobrecarga\Ejercicio-C02-LaEstanteria\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\usuario\Documents\GitHub\program-ii-ejercicios\Clase-04-Sobrecarga\Ejercicio-C02-LaEstanteria\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\program-ii-ejercicios\Clase-04-Sobrecarga\Ejercicio-C02-LaEstanteria\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\program-ii-ejercicios\Clase-04-Sobrecarga\Ejercicio-C02-LaEstanteria\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\program-ii-ejercicios\Clase-04-Sobrecarga\Ejercicio-C02-LaEstanteria\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\program-ii-ejercicios\Clase-04-Sobrecarga\Ejercicio-C02-LaEstanteria\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\program-ii-ejercicios\Clase-04-Sobrecarga\Ejercicio-C02-LaEstanteria\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\usuario\Documents\GitHub\program-ii-ejercicios\Clase-04-Sobrecarga\Ejercicio-C02-LaEstanteria\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\usuario\Documents\GitHub\program-ii-ejercicios\Clase-04-Sobrecarga\Ejercicio-C02-LaEstanteria\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\usuario\Documents\GitHub\program-ii-ejercicios\Clase-04-Sobrecarga\Ejercicio-C02-LaEstanteria\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll

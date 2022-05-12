@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-4\\Ejercicio-C02\\Consola\\Consola.csproj": {}
+    "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-04-Sobrecarga\\Ejercicio-C02-LaEstanteria\\Consola\\Consola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-4\\Ejercicio-C02\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-04-Sobrecarga\\Ejercicio-C02-LaEstanteria\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-4\\Ejercicio-C02\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-04-Sobrecarga\\Ejercicio-C02-LaEstanteria\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-4\\Ejercicio-C02\\Biblioteca\\Biblioteca.csproj",
-        "packagesPath": "C:\\Users\\robot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-4\\Ejercicio-C02\\Biblioteca\\obj\\",
+        "projectPath": "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-04-Sobrecarga\\Ejercicio-C02-LaEstanteria\\Biblioteca\\Biblioteca.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-04-Sobrecarga\\Ejercicio-C02-LaEstanteria\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\robot\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,25 +54,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-4\\Ejercicio-C02\\Consola\\Consola.csproj": {
+    "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-04-Sobrecarga\\Ejercicio-C02-LaEstanteria\\Consola\\Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-4\\Ejercicio-C02\\Consola\\Consola.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-04-Sobrecarga\\Ejercicio-C02-LaEstanteria\\Consola\\Consola.csproj",
         "projectName": "Consola",
-        "projectPath": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-4\\Ejercicio-C02\\Consola\\Consola.csproj",
-        "packagesPath": "C:\\Users\\robot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-4\\Ejercicio-C02\\Consola\\obj\\",
+        "projectPath": "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-04-Sobrecarga\\Ejercicio-C02-LaEstanteria\\Consola\\Consola.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-04-Sobrecarga\\Ejercicio-C02-LaEstanteria\\Consola\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\robot\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-4\\Ejercicio-C02\\Biblioteca\\Biblioteca.csproj": {
-                "projectPath": "C:\\Users\\robot\\Documents\\labo_program_2\\Clase-4\\Ejercicio-C02\\Biblioteca\\Biblioteca.csproj"
+              "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-04-Sobrecarga\\Ejercicio-C02-LaEstanteria\\Biblioteca\\Biblioteca.csproj": {
+                "projectPath": "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-04-Sobrecarga\\Ejercicio-C02-LaEstanteria\\Biblioteca\\Biblioteca.csproj"
               }
             }
           }
@@ -120,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

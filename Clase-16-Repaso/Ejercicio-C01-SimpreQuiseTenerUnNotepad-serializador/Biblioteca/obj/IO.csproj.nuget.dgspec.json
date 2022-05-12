@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-16-Repaso\\Ejercicio-C01-SimpreQuiseTenerUnNotepad-serializador\\Biblioteca\\IO.csproj": {}
+    "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-16-Repaso\\Ejercicio-C01-SimpreQuiseTenerUnNotepad-serializador\\Biblioteca\\IO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-16-Repaso\\Ejercicio-C01-SimpreQuiseTenerUnNotepad-serializador\\Biblioteca\\IO.csproj": {
+    "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-16-Repaso\\Ejercicio-C01-SimpreQuiseTenerUnNotepad-serializador\\Biblioteca\\IO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-16-Repaso\\Ejercicio-C01-SimpreQuiseTenerUnNotepad-serializador\\Biblioteca\\IO.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-16-Repaso\\Ejercicio-C01-SimpreQuiseTenerUnNotepad-serializador\\Biblioteca\\IO.csproj",
         "projectName": "IO",
-        "projectPath": "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-16-Repaso\\Ejercicio-C01-SimpreQuiseTenerUnNotepad-serializador\\Biblioteca\\IO.csproj",
-        "packagesPath": "C:\\Users\\lauri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-16-Repaso\\Ejercicio-C01-SimpreQuiseTenerUnNotepad-serializador\\Biblioteca\\obj\\",
+        "projectPath": "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-16-Repaso\\Ejercicio-C01-SimpreQuiseTenerUnNotepad-serializador\\Biblioteca\\IO.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-16-Repaso\\Ejercicio-C01-SimpreQuiseTenerUnNotepad-serializador\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\lauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

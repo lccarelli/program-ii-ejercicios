@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "uNisAnO5ltSic1YaYD5V1rbcNTznOvi1qNtQsndVJm+9ezb3mxjCf27Xp28UiRCE4A+lH5bZ0iQ5oZ5GaFieyQ==",
+  "dgSpecHash": "PsR+apf9bfIf082J/wYKpQ3Xf1r8p5kqyTnmr93W0H8/rCHHhHkRTMofoOMwImsAkLoLp3BKMO2SjgAxcBSeWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-8-Herencia\\Ejercicio-I01-ElViajarEsUnPlacer\\Biblioteca\\Biblioteca.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-08-Herencia\\Ejercicio-I01-ElViajarEsUnPlacer\\Biblioteca\\Biblioteca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

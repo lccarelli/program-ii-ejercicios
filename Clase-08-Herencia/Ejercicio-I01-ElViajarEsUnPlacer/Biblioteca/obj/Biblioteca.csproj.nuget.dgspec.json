@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-8-Herencia\\Ejercicio-I01-ElViajarEsUnPlacer\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-08-Herencia\\Ejercicio-I01-ElViajarEsUnPlacer\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-8-Herencia\\Ejercicio-I01-ElViajarEsUnPlacer\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-08-Herencia\\Ejercicio-I01-ElViajarEsUnPlacer\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-8-Herencia\\Ejercicio-I01-ElViajarEsUnPlacer\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-08-Herencia\\Ejercicio-I01-ElViajarEsUnPlacer\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-8-Herencia\\Ejercicio-I01-ElViajarEsUnPlacer\\Biblioteca\\Biblioteca.csproj",
-        "packagesPath": "C:\\Users\\lauri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lauri\\Documents\\GitHub\\program-ii-ejercicios\\Clase-8-Herencia\\Ejercicio-I01-ElViajarEsUnPlacer\\Biblioteca\\obj\\",
+        "projectPath": "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-08-Herencia\\Ejercicio-I01-ElViajarEsUnPlacer\\Biblioteca\\Biblioteca.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\usuario\\Documents\\GitHub\\program-ii-ejercicios\\Clase-08-Herencia\\Ejercicio-I01-ElViajarEsUnPlacer\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\lauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -53,12 +49,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
