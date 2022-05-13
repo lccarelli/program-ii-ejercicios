@@ -13,8 +13,8 @@ namespace Biblioteca
             CURADO,
             GRIPE,
             CORONAVIRUS
-
         }
+
         private string diagnostico;
 
         public EDiagnostico RandomEnum<EDiagnostico>() 

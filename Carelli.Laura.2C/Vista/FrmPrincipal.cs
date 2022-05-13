@@ -39,7 +39,7 @@ namespace Vista
             if(lstMedicos.SelectedItem is not null)
             {
                 PersonalMedico personalMedico = (PersonalMedico)lstMedicos.SelectedItem;
-                rtbInfoMedico.Text = personalMedico.FichaPersonal();
+                rtbInfoMedico.Text = PersonalMedico.FichaPersonal(personalMedico);
             }            
         }
 

@@ -47,11 +47,12 @@ namespace Biblioteca
             return sb.ToString();
         }
 
-        public string FichaPersonal()
+        public static string FichaPersonal(Persona p)
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine(this.ToString());
-            sb.AppendLine($"EDAD: {Edad}");
+            sb.AppendLine(p.ToString());
+            sb.AppendLine($"EDAD: {p.Edad}");
+            sb.AppendLine(p.FichaExtra());
 
             return sb.ToString();
         }
